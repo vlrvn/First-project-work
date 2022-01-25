@@ -1,0 +1,15 @@
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\First.exe
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\First.deps.json
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\First.runtimeconfig.json
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\First.dll
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\ref\First.dll
+C:\Users\vlrvn\Desktop\First-project-work\First\First\bin\Debug\net6.0\First.pdb
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.csproj.AssemblyReference.cache
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.AssemblyInfoInputs.cache
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.AssemblyInfo.cs
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.csproj.CoreCompileInputs.cache
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.dll
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\ref\First.dll
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.pdb
+C:\Users\vlrvn\Desktop\First-project-work\First\First\obj\Debug\net6.0\First.genruntimeconfig.cache
